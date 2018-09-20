@@ -25,4 +25,4 @@ Creating production bundles is as easy as typing `npm run build`. These can be f
 
 #### Notes
 
-My main goal with this project was to get familiar with HTML Custom Elements and use them to build something useful. With this being said - this project isn't fully tested and it built around a somewhat new technology, it might not be the best idea to run it in a real-world environment.
+My main goal with this project was to get familiar with HTML Custom Elements and use them to build something useful. With this being said - this project isn't fully tested and it might not be the best idea to run it in a real-world environment.

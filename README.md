@@ -1,5 +1,7 @@
 # Password Generator
 
+![Project screenshot](https://raw.githubusercontent.com/zielinsm/password-generator/master/capture.png)
+
 Vanilla JavaScript password generator web application using HTML Custom Elements.
 **[Live demo](https://pg.zielinsk.im/)** hosted on Netlify.
 

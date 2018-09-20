@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Password generator</title>
+</head>
+
+<body>
+  <div class="container" style="height: 100vh">
+    <div class="row h-100 justify-content-center align-items-center">
+      <div class="card">
+        <g-container id="main" class="card-body g-content">
+          <g-form></g-form>
+          <g-length min="8" max="24" selected="16"></g-length>
+          <span class="align-self-center" style="margin-right: 0.5em">Include:</span>
+          <g-option key="letters" label="Letters" checked></g-option>
+          <g-option key="numbers" label="Numbers" checked></g-option>
+          <g-option key="symbols" label="Symbols" checked></g-option>
+          <div class="mt-3">
+            <g-button></g-button>
+          </div>
+        </g-container>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>

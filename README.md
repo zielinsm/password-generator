@@ -4,12 +4,12 @@
 
 Vanilla JavaScript password generator web application using HTML Custom Elements.
 
-**[Live demo](https://pg.zielinsk.im/)** hosted on Netlify.
+**[Live demo](https://zielinsm.github.io/password-generator/)** on GitHub pages.
 
 ---
 
 #### Features and details
-  - Lightweight (~30kB total size) and fast (scores 100/100 in Lighthouse performance audit)
+  - Lightweight (~30kB total size) and fast
   - UI responds to any changes immediately
   - Easy to use - a *"copy to clipboard"* button
   - Fits most resolutions - suitable for mobile devices
